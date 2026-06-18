@@ -350,12 +350,12 @@ Automated hyperparameter tuning was performed separately for regression and clas
 
 ### Optuna Optimization History Regression
 
-![Optuna History Regression](images/optuna_history_regression.png)
+![Optuna History Regression](images/optuna_history_regression.PNG)
 
 
 ### Optuna Optimization Hyperparameter Importance Regression
 
-![Optuna Optimization Regression](images/optuna_optimization_regression.png)
+![Optuna Optimization Regression](images/optuna_optimization_regression.PNG)
 
 
 ### Classification Best Configuration
@@ -372,12 +372,12 @@ Automated hyperparameter tuning was performed separately for regression and clas
 
 ### Optuna Optimization History Classification
 
-![Optuna History Classification](images/optuna_history_classification.png)
+![Optuna History Classification](images/optuna_history_classification.PNG)
 
 
 ### Optuna Optimization Hyperparameter Importance Classification
 
-![Optuna Optimization Classification](images/optuna_optimization_classification.png)
+![Optuna Optimization Classification](images/optuna_optimization_classification.PNG)
 
 ---
 
